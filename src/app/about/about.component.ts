@@ -16,7 +16,7 @@ import { ActivatedRoute } from '@angular/router';
     </div>
     <div>
       <h3>
-        Amit S
+        Amit Saggar....
       </h3>
     </div>
     <pre>this.localState = {{ localState | json }}</pre>
